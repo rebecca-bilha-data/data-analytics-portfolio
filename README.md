@@ -1,5 +1,5 @@
 ## Rebecca Bilha|Data Analysis portfolio
-##About me 
+## About me 
 I am an Economics student at the University of Nairobi , developing practical data analysis skills through coursework , hands-on-projects ,and continuous learning.
 I am currently learning and applying Microsoft Excel and Python to organize , analyze and interpret data . I am interested in using data to identify trends, understand business performance and support evidence-based decision-making .
 This portfolio showcases  my learning journey and practical data analysis projects .
